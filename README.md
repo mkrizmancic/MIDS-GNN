@@ -1,4 +1,17 @@
 # MIDS-GNN
+## Requirements
+Python packages:
+- codetiming
+- matplotlib
+- networkx
+- pandas
+- plotly
+- torch
+- torch_geometric
+- tqdm
+- wandb
+
+Graphs dataset repository: https://github.com/mkrizmancic/my_graphs_dataset
 
 ## Repository organization
 
